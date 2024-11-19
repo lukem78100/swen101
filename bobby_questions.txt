@@ -1,0 +1,58 @@
+What would you like to learn from them?
+What about their work/discipline interests you the most?
+What skills would you like to develop that you see in them? How do you plan to develop these skills?
+What are the challenges or barriers you think you may face in developing those skills? How could connections with faculty help support you through those challenges?
+
+
+You've talked about working in Research at Xerox for a while. Research is something that interests me but
+I'm not sure how it fits into the industry. Could you explain what you did and how it applied to Xerox's
+goals as a company?
+# started as a code mokney
+# ideas would come and I would have to materialize them
+# printer company, so mostly improved user experience - user diagnostics, machine learning near the end, computer vision
+
+What made you switch to teaching after working at Xerox for so long? Why did you choose RIT?
+# grad from RIT BS MS, met wife, met friends
+# everything really just lined up
+# xerox dept chair started SE dept
+
+What are your top 3 favorite parts or aspects of RIT? x
+
+After teaching SWEN123 for a while, what barriers do you think students have and what advice would
+you give them?
+# apart of research project on growth mindset vs fixed mindset, kids shift to fixed mindset after a few weeks
+# lots of giving up
+# solution: freshmen have a lot going on, first time being academically challenge
+# time management and asking for help
+
+- switch to some job/major related questions -
+
+Should kids be nervous or on edge for entering the CS industry in 2024?
+# kids are having trouble with finding coops
+# its important to get your foot in the door
+
+What do you recommend someone like me (first year, swen major) take advantage of right now?
+# building portfolio
+# find a club that makes stuff
+# personal projects
+# once you find your first coop, your golden
+
+- pivot to personal questions -
+
+In your class I really admire and appreciate your charisma and humor, it is really effective
+at keeping me focused and involved with the lecture. What makes you happy and keeps you motivated
+to teach every day? at 8am 
+# 8AM is best section!!
+# loves the classroom, lightbulbs going off give goosebumps 
+# maintaining motivation is easy when busy with classes
+# when starting it was scary, after work for 15 years
+# is a student gonna ask a question that i cant answer?
+# learning and processing it is good for the student
+
+What is the best way to balance work and life?
+# wife hates the job, staying up and preparing lectures, working weekends
+# hard to make vacation
+# make time, stick to a schedule (for him, tues thur and sunday are for work)
+
+What is your favorite my chemical romance album?
+# the black parade
