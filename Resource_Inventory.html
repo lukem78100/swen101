@@ -1,13 +1,19 @@
 <html>
     <head>
         <title>Resource Inventory</title>
-        <div style="float:right;padding-right: 45.5%;">
-            <button type="button">Back to Resources</button>
-        </div>
-        <h3>Resource Inventory</h3>
     </head>
     <body>
         <div style="display: flex">
+
+            <div name="sidebar">
+                <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-right: 120px;">
+                    <h1 style="font-size: 30px;">ROC</h1>
+                    <h2 style="font-size: 20px;">Soup Kitchen - All Users</h2>
+                    <form action="recipes.html">
+                        <button name="manage-button" type="submit" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 100px; width: 150px; font-size: 20;">Recipes</button>
+                    </form>
+                </div>
+            </div>
         <div>
             <table border="2" style="float: left">
                 <thead>
@@ -89,29 +95,32 @@
                     </tr>
                     <tr align="center">
                         <td>
-                            <button type="button">ok</button>
-                            <button type="button">cancel</button>
+                            <button type="button" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 30px; width: 150px; font-size: 15px;">Confirm</button>
+                            <button type="button" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 30px; width: 150px; font-size: 15px;">Cancel</button>
                         </td>
                     </tr>
                 </tbody>
             </table>
-            <button type="button">Edit Resources</button>
+            <button type="button" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 30px; width: 150px; font-size: 15px;">Edit Resources</button>
+            <form action="recipes.html">
+                <button type="submit" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 30px; width: 150px; font-size: 15px;">All Recipes</button>
+            </form>
         </div>
         <div align="right" style="float: right">
             <table border="2" width="250px" height="300px">
                 <thead>
                     <tr>
-                        <td align="center">Reports appear here</td>
+                        <td align="center" style="border-radius: 10px; background-color: rgb(125, 163, 49);">Reports appear here</td>
                     </tr>
                     <tr height="10px">
                         <td align="center">
-                            <button type="button">Download Reports</button>
+                            <button type="button" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 30px; width: 150px; font-size: 15px;">Download Reports</button>
                         </td>
                     </tr>
                 </thead>
             </table>
             <div align="center">
-                <button type="button">Generate Reports</button>
+                <button type="button" style="border-radius: 10px; background-color: rgb(125, 163, 49); height: 30px; width: 150px; font-size: 15px;">Generate Reports</button>
             </div>
         </div>
         </div>
